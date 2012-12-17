@@ -38,7 +38,7 @@
 |
 */
 
-$route['default_controller'] = "biz_directory";
+$route['default_controller'] = "listing";
 $route['404_override'] = '';
 
 
